@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Himanshusoni9111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- himanshusoni9111@gmail.com
+- 👀 I’m interested in Spring boot, reactJS
+- 🌱 I’m currently learning Spring boot, react native
+- 💞️ I’m looking to collaborate on software development with partnership
+- 📫 himanshusoni9111@gmail.com
 - 
 
 <!---
